@@ -1,5 +1,5 @@
 <?php
-$str = "vaav vaaav vav vbbbv epe eeevee vpv eve eveve";
+$str = "vbbbv epe eeevee vpv eve eveve";
 $regexp = "/e.e/"; // Вариант 5 ('e' + один любой символ + 'e')
 $matches = [];
 
